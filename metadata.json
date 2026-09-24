@@ -1,0 +1,6 @@
+{
+  "name": "DeclutterIQ: AI Room Organizer & Declutter Studio",
+  "description": "Upload photos of your rooms, get AI-powered room analysis, custom decluttering strategies, step-by-step organization plans, and chat with an AI Room Organizing Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
